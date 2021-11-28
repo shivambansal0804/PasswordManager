@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="registryUsers" uuid="11812bc2-5710-443d-b85d-d8c7e1567c40">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:D:\python-password-manager-dev\python-password-manager-dev\registryUsers.db</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="registryUsers [2]" uuid="eb1bf559-f7e2-48a9-9629-e545565318ac">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:D:\python-password-manager-dev\python-password-manager-dev\registryUsers.db</jdbc-url>
+    </data-source>
+  </component>
+</project>
